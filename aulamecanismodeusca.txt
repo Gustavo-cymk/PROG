@@ -1,0 +1,31 @@
+25136
+1
+2
+3
+5
+6
+12356
+
+bolha
+51236
+12356
+
+quicksort
+qsort(end,tam,)
+
+pesquisa
+
+binaria - eficiente em listas ordenadas
+{	quero numero 8
+	(5)
+	123456789
+	   >!<
+	(7)
+	6789
+	>!<
+	(8)
+	89
+	!			}
+
+bsearch(valor de busca,resto que nem qsort)
+int resultado, busc 
